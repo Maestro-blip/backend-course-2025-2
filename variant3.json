@@ -1,0 +1,41 @@
+[
+{ 
+"exchangedate":"19.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"18.07.2022"
+ }
+,{ 
+"exchangedate":"18.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"15.07.2022"
+ }
+,{ 
+"exchangedate":"17.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"14.07.2022"
+ }
+,{ 
+"exchangedate":"16.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"14.07.2022"
+ }
+,{ 
+"exchangedate":"15.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"14.07.2022"
+ }
+,{ 
+"exchangedate":"14.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"13.07.2022"
+ }
+,{ 
+"exchangedate":"13.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"12.07.2022"
+ }
+,{ 
+"exchangedate":"12.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"11.07.2022"
+ }
+,{ 
+"exchangedate":"11.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"08.07.2022"
+ }
+,{ 
+"exchangedate":"10.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"07.07.2022"
+ }
+,{ 
+"exchangedate":"09.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"07.07.2022"
+ }
+,{ 
+"exchangedate":"08.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"07.07.2022"
+ }
+,{ 
+"exchangedate":"07.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"06.07.2022"
+ }
+]
